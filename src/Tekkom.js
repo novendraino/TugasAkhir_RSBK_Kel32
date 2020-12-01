@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import axios from "axios";
-import { Card, Modal, Avatar } from "antd";
+import { Modal, Avatar } from "antd";
 import "antd/dist/antd.css";
 
 import Effect from "./useEffect/Effect";
@@ -9,7 +9,7 @@ import { Space, Layout } from 'antd';
 
 import Cards from './components/Cards';
 //import Links from './components/Links';
-import Button from './components/Button';
+//import Button from './components/Button';
 
 import FotoI from './ino.jpg';
 import FotoD from './dinisya.png';
